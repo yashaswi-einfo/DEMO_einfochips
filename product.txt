@@ -1,3 +1,2 @@
-this is producy page 
 
-xyz
+this is product page
